@@ -1,0 +1,819 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.1)  8 MAY 2020 19:11
+entering extended mode
+**./Especificacion_Histograma_Alberto_Valdes.tex
+(Especificacion_Histograma_Alberto_Valdes.tex
+LaTeX2e <2018-12-01>
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+) ("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
+Package: babel 2019/05/04 3.31 The Babel package
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\span
+ish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count100
+\U@D=\dimen112
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count101
+)
+\es@quottoks=\toks27
+\es@quotdepth=\count102
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
+"
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count103
+\mult@box=\box29
+\multicol@leftmargin=\dimen113
+\c@unbalance=\count104
+\c@collectmore=\count105
+\doublecol@number=\count106
+\multicoltolerance=\count107
+\multicolpretolerance=\count108
+\full@width=\dimen114
+\page@free=\dimen115
+\premulticols=\dimen116
+\postmulticols=\dimen117
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen118
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count109
+\c@finalcolumnbadness=\count110
+\last@try=\dimen119
+\multicolovershoot=\dimen120
+\multicolundershoot=\dimen121
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count111
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+\lst@mode=\count112
+\lst@gtempboxa=\box55
+\lst@token=\toks29
+\lst@length=\count113
+\lst@currlwidth=\dimen122
+\lst@column=\count114
+\lst@pos=\count115
+\lst@lostspace=\dimen123
+\lst@width=\dimen124
+\lst@newlines=\count116
+\lst@lineno=\count117
+\lst@maxwidth=\dimen125
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count118
+\lst@skipnumbers=\count119
+\lst@framebox=\box56
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\alltt.sty"
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip51
+\subfigcapskip=\skip52
+\subfigcaptopadj=\dimen128
+\subfigbottomskip=\skip53
+\subfigcapmargin=\dimen129
+\subfiglabelskip=\skip54
+\c@subfigure=\count120
+\c@lofdepth=\count121
+\c@subtable=\count122
+\c@lotdepth=\count123
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.cfg")
+\subfig@top=\skip55
+\subfig@bottom=\skip56
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen130
+\captionmargin@=\dimen131
+\captionwidth=\dimen132
+\caption@tempdima=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+\c@caption@flags=\count124
+\c@ContinuedFloat=\count125
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+)
+\c@KVtest=\count126
+\sf@farskip=\skip57
+\sf@captopadj=\dimen137
+\sf@capskip=\skip58
+\sf@nearskip=\skip59
+\sf@top=\skip60
+\sf@bottom=\skip61
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count127
+\float@exts=\toks30
+\float@box=\box57
+\@float@everytoks=\toks31
+\@floatcapt=\box58
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
+y"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/framed\framed.sty"
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip62
+\fb@frw=\dimen138
+\fb@frh=\dimen139
+\FrameRule=\dimen140
+\FrameSep=\dimen141
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y"
+\wrapoverhang=\dimen142
+\WF@size=\dimen143
+\c@WF@wrappedlines=\count128
+\WF@box=\box59
+\WF@everypar=\toks33
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf.
+sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count129
+\Gm@cntv=\count130
+\c@Gm@tempcnt=\count131
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks34
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg")) (Especificacion_Histograma_Alberto_Valdes.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `Especificacion_Histograma_Alberto_Valdes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+\c@lstlisting=\count132
+
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count133
+\scratchdimen=\dimen152
+\scratchbox=\box60
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen153
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
+\everyMPtoPDFconversion=\toks36
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 652.70622pt, 85.35826pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./figures/LogoUC-BN.pdf, id=1, 122.77026pt x 161.83778pt>
+File: ./figures/LogoUC-BN.pdf Graphic file (type pdf)
+<use ./figures/LogoUC-BN.pdf>
+Package pdftex.def Info: ./figures/LogoUC-BN.pdf  used on input line 44.
+(pdftex.def)             Requested size: 56.90572pt x 75.01424pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 45.
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 45.
+("C:\Users\56977\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 48--53
+
+ []
+
+
+Overfull \hbox (14.09894pt too wide) in paragraph at lines 43--57
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+[1{C:/Users/56977/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <./figures/LogoUC-BN.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+<./figures/beto_normal.png, id=18, 569.87906pt x 197.23688pt>
+File: ./figures/beto_normal.png Graphic file (type png)
+<use ./figures/beto_normal.png>
+Package pdftex.def Info: ./figures/beto_normal.png  used on input line 124.
+(pdftex.def)             Requested size: 377.62642pt x 130.69739pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+<./figures/beto_ecualizado.png, id=19, 566.115pt x 193.47281pt>
+File: ./figures/beto_ecualizado.png Graphic file (type png)
+<use ./figures/beto_ecualizado.png>
+Package pdftex.def Info: ./figures/beto_ecualizado.png  used on input line 132.
+
+(pdftex.def)             Requested size: 377.62642pt x 129.0593pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+<./figures/beto_exponencial.png, id=20, 566.115pt x 193.47281pt>
+File: ./figures/beto_exponencial.png Graphic file (type png)
+<use ./figures/beto_exponencial.png>
+Package pdftex.def Info: ./figures/beto_exponencial.png  used on input line 140
+.
+(pdftex.def)             Requested size: 377.62642pt x 129.0593pt.
+[2 <./figures/beto_normal.png> <./figures/beto_ecualizado.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+<./figures/beto_triangular.png, id=26, 566.115pt x 193.47281pt>
+File: ./figures/beto_triangular.png Graphic file (type png)
+<use ./figures/beto_triangular.png>
+Package pdftex.def Info: ./figures/beto_triangular.png  used on input line 148.
+
+(pdftex.def)             Requested size: 377.62642pt x 129.0593pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+<./figures/grafico_beto_normal.png, id=27, 608.2725pt x 202.50656pt>
+File: ./figures/grafico_beto_normal.png Graphic file (type png)
+<use ./figures/grafico_beto_normal.png>
+Package pdftex.def Info: ./figures/grafico_beto_normal.png  used on input line 
+162.
+(pdftex.def)             Requested size: 377.62642pt x 125.7227pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+<./figures/grafico_beto_ecualizado.png, id=28, 608.2725pt x 202.50656pt>
+File: ./figures/grafico_beto_ecualizado.png Graphic file (type png)
+<use ./figures/grafico_beto_ecualizado.png>
+Package pdftex.def Info: ./figures/grafico_beto_ecualizado.png  used on input l
+ine 168.
+(pdftex.def)             Requested size: 377.62642pt x 125.7227pt.
+[3 <./figures/beto_exponencial.png> <./figures/beto_triangular.png> <./figures/
+grafico_beto_normal.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+<./figures/grafico_beto_exponencial.png, id=34, 608.2725pt x 202.50656pt>
+File: ./figures/grafico_beto_exponencial.png Graphic file (type png)
+<use ./figures/grafico_beto_exponencial.png>
+Package pdftex.def Info: ./figures/grafico_beto_exponencial.png  used on input 
+line 174.
+(pdftex.def)             Requested size: 377.62642pt x 125.7227pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+<./figures/grafico_beto_triangular.png, id=35, 608.2725pt x 202.50656pt>
+File: ./figures/grafico_beto_triangular.png Graphic file (type png)
+<use ./figures/grafico_beto_triangular.png>
+Package pdftex.def Info: ./figures/grafico_beto_triangular.png  used on input l
+ine 180.
+(pdftex.def)             Requested size: 377.62642pt x 125.7227pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+[4 <./figures/grafico_beto_ecualizado.png> <./figures/grafico_beto_exponencial.
+png> <./figures/grafico_beto_triangular.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+<./figures/neymar_normal.png, id=39, 408.77719pt x 193.47281pt>
+File: ./figures/neymar_normal.png Graphic file (type png)
+<use ./figures/neymar_normal.png>
+Package pdftex.def Info: ./figures/neymar_normal.png  used on input line 193.
+(pdftex.def)             Requested size: 283.22162pt x 134.05434pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+<./figures/neymar_ecualizado.png, id=40, 408.77719pt x 193.47281pt>
+File: ./figures/neymar_ecualizado.png Graphic file (type png)
+<use ./figures/neymar_ecualizado.png>
+Package pdftex.def Info: ./figures/neymar_ecualizado.png  used on input line 19
+9.
+(pdftex.def)             Requested size: 283.22162pt x 134.05434pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+<./figures/neymar_exponencial.png, id=41, 408.77719pt x 193.47281pt>
+File: ./figures/neymar_exponencial.png Graphic file (type png)
+<use ./figures/neymar_exponencial.png>
+Package pdftex.def Info: ./figures/neymar_exponencial.png  used on input line 2
+05.
+(pdftex.def)             Requested size: 283.22162pt x 134.05434pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+<./figures/neymar_triangular.png, id=42, 408.77719pt x 193.47281pt>
+File: ./figures/neymar_triangular.png Graphic file (type png)
+<use ./figures/neymar_triangular.png>
+Package pdftex.def Info: ./figures/neymar_triangular.png  used on input line 21
+1.
+(pdftex.def)             Requested size: 283.22162pt x 134.05434pt.
+[5 <./figures/neymar_normal.png> <./figures/neymar_ecualizado.png> <./figures/n
+eymar_exponencial.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--215
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+<./figures/grafico_neymar_normal.png, id=46, 608.2725pt x 201.75375pt>
+File: ./figures/grafico_neymar_normal.png Graphic file (type png)
+<use ./figures/grafico_neymar_normal.png>
+Package pdftex.def Info: ./figures/grafico_neymar_normal.png  used on input lin
+e 222.
+(pdftex.def)             Requested size: 377.62642pt x 125.25534pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--226
+
+ []
+
+<./figures/grafico_neymar_ecualizado.png, id=47, 608.2725pt x 201.75375pt>
+File: ./figures/grafico_neymar_ecualizado.png Graphic file (type png)
+<use ./figures/grafico_neymar_ecualizado.png>
+Package pdftex.def Info: ./figures/grafico_neymar_ecualizado.png  used on input
+ line 229.
+(pdftex.def)             Requested size: 377.62642pt x 125.25534pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+<./figures/grafico_neymar_exponencial.png, id=48, 608.2725pt x 201.75375pt>
+File: ./figures/grafico_neymar_exponencial.png Graphic file (type png)
+<use ./figures/grafico_neymar_exponencial.png>
+Package pdftex.def Info: ./figures/grafico_neymar_exponencial.png  used on inpu
+t line 235.
+(pdftex.def)             Requested size: 377.62642pt x 125.25534pt.
+[6 <./figures/neymar_triangular.png> <./figures/grafico_neymar_normal.png> <./f
+igures/grafico_neymar_ecualizado.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+<./figures/grafico_neymar_triangular.png, id=54, 608.2725pt x 201.75375pt>
+File: ./figures/grafico_neymar_triangular.png Graphic file (type png)
+<use ./figures/grafico_neymar_triangular.png>
+Package pdftex.def Info: ./figures/grafico_neymar_triangular.png  used on input
+ line 241.
+(pdftex.def)             Requested size: 377.62642pt x 125.25534pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
+
+ []
+
+[7 <./figures/grafico_neymar_exponencial.png> <./figures/grafico_neymar_triangu
+lar.png>] (Especificacion_Histograma_Alberto_Valdes.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 7045 strings out of 492895
+ 106604 string characters out of 3123736
+ 192330 words of memory out of 3000000
+ 10821 multiletter control sequences out of 15000+200000
+ 9801 words of font info for 37 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,9n,42p,708b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/56977/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmbx10.pfb><C:/Users/56977/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Users/56977/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/56977/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/56977/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/
+56977/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pf
+b><C:/Users/56977/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr10.pfb><C:/Users/56977/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb><C:/Users/56977/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/56977/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/56977/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Especificacion_Histograma_Alberto_Valdes.pdf (7 pages, 222715
+2 bytes).
+PDF statistics:
+ 96 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
