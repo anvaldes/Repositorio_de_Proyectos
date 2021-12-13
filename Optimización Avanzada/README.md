@@ -1,1 +1,1 @@
-# Advanced Optimization :triangular_ruler
+# Advanced Optimization :triangular_ruler:
