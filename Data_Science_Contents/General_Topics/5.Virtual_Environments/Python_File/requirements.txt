@@ -1,8 +1,11 @@
 matplotlib==3.6.2
+numpy==1.23.5
 numpy==1.23.4
 pandas==1.5.2
 pycaret==2.3.10
 scikit_learn==0.23.2
+scikit_learn==1.2.1
+scipy==1.10.0
 scipy==1.5.4
 seaborn==0.11.2
 torch==1.13.0
