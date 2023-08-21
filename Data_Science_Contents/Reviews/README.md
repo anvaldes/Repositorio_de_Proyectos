@@ -1,5 +1,5 @@
-# Repository of Alberto Valdés :zap:
+# Reviews
 
-Hi! My name is Alberto Valdés and it's the repository where I will upload all the projects I will develop. I'm a person appasionated for Data Science, Machine Learning, Deep Learning and Optimization and for this reason my projects will be mainly relationated with these areas. :robot: :computer: :abacus:
+Here I do differents theorical reviews about differents topics in Data Science.
 
-If you have any question feel free of send me a mail to anvaldes@uc.cl. :smile:
+
