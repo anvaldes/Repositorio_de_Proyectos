@@ -1,5 +1,5 @@
 # Reviews
 
-Here I do differents theorical reviews about differents topics in Data Science.
+Here I do theorical reviews about differents topics in Data Science.
 
 
