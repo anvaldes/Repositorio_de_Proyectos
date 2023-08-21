@@ -1,5 +1,6 @@
-# Repository of Alberto Valdés :zap:
+# Assemblies
 
-Hi! My name is Alberto Valdés and it's the repository where I will upload all the projects I will develop. I'm a person appasionated for Data Science, Machine Learning, Deep Learning and Optimization and for this reason my projects will be mainly relationated with these areas. :robot: :computer: :abacus:
+Here I create differents ways to ensambling regression models. There are two types of assemblies:
 
-If you have any question feel free of send me a mail to anvaldes@uc.cl. :smile:
+* Continuos Assemblies: The final function is continous.
+* Soft Assemblies: The final function have a continous derivative.
