@@ -1,4 +1,4 @@
-# Data Science Contents :zap:
+# ML/AI Contents :zap:
 
 Hi! My name is Alberto Valdés and this is the space where I upload differents reviews of Data Science Contents plus code! :computer: :abacus:
 
